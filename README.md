@@ -1,7 +1,7 @@
 # Elliptical-Curve
 Elliptical curves using GMP
 
-# Functions: 
+## Functions: 
 print_point: function to print a pair of x,y coordinates
 scan_point: function to input a pair of x,y coordinates
 
@@ -20,7 +20,7 @@ read_from_file: reads p,a,b from a file.The file name should be given as argumen
 main: Takes choice from the user and performs that action
 
 
-# Test Cases tried:
+## Test Cases tried:
 A. p=17, a=2, b=2
 
 1.add: 5,1 and 6,3 = 10 gives 10,6
